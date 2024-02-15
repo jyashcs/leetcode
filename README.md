@@ -3,3 +3,4 @@
 #### [2.Find the maximum amount of water can be stored in a container](https://github.com/jyashcs/leetcode/blob/main/Maximum%20water.cpp)
 #### [3.Find the maximum profit in a given array of stock prices](https://github.com/jyashcs/leetcode/blob/main/Maximum%20profit.cpp)
 #### [4.sort an array of 0's 1's & 2's in a single iteraion](https://github.com/jyashcs/leetcode/blob/main/sorting%20in%20singleiteration.cpp)
+#### [5.Find first and last index of an element in a sorted array](https://github.com/jyashcs/leetcode/blob/main/Firstandlastindex.cpp)
