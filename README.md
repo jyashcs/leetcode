@@ -1,6 +1,9 @@
 # DSA PROGRAMS.
-#### [1.Program to find first and second maximum from array](https://github.com/jyashcs/leetcode/blob/main/Secondmax.cpp)
+#### [1.Find first and second maximum numbers from given array](https://github.com/jyashcs/leetcode/blob/main/Secondmax.cpp)
 #### [2.Find the maximum amount of water can be stored in a container](https://github.com/jyashcs/leetcode/blob/main/Maximum%20water.cpp)
 #### [3.Find the maximum profit in a given array of stock prices](https://github.com/jyashcs/leetcode/blob/main/Maximum%20profit.cpp)
-#### [4.sort an array of 0's 1's & 2's in a single iteraion](https://github.com/jyashcs/leetcode/blob/main/sorting%20in%20singleiteration.cpp)
+#### [4.Sort an array of 0's 1's & 2's in a single iteraion](https://github.com/jyashcs/leetcode/blob/main/sorting%20in%20singleiteration.cpp)
 #### [5.Find first and last index of an element in a sorted array](https://github.com/jyashcs/leetcode/blob/main/Firstandlastindex.cpp)
+#### [6.Find number of zero-filled sub-array's in a given array](https://github.com/jyashcs/leetcode/blob/main/NumberofZero-filledsubarrays.cpp)
+#### [7.Merge sort](https://github.com/jyashcs/leetcode/blob/main/MergeSort.cpp)
+#### [8.Rat in a Maze](https://github.com/jyashcs/leetcode/blob/main/Rat-in-Maze.cpp)
