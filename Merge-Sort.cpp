@@ -3,6 +3,7 @@
 using namespace std;
 void Merge(int arr[], int st, int mid, int end)
 {
+
     int n1 = mid - st + 1;
     int n2 = end - mid;
 
@@ -56,7 +57,7 @@ void MergeSort(int arr[], int st, int end)
     if (st < end)
     {
         int mid = (st + end) / 2;
-        MergeSort(arr, st, mid);
+        MergeSort(arr, st,mid);
         MergeSort(arr, mid + 1, end);
         Merge(arr, st, mid, end);
     }
