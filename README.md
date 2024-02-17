@@ -7,3 +7,4 @@
 #### [6.Find number of zero-filled sub-array's in a given array](https://github.com/jyashcs/leetcode/blob/main/NumberofZero-filledsubarrays.cpp)
 #### [7.Merge sort](https://github.com/jyashcs/leetcode/blob/main/MergeSort.cpp)
 #### [8.Rat in a Maze](https://github.com/jyashcs/leetcode/blob/main/Rat-in-Maze.cpp)
+#### [9.Find the maximum sub-array in a given array of integers](https://github.com/jyashcs/leetcode/blob/main/Maximum%20sub-array.cpp)
