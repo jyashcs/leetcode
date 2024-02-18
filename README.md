@@ -1,4 +1,4 @@
-# 100 DAYS CODING CHALLENGE.
+# 100 DAY'S CODING CHALLENGE.
 #### [Day-1.Find first and second maximum numbers from given array](https://github.com/jyashcs/leetcode/blob/main/Secondmax.cpp)
 #### [Find the maximum amount of water can be stored in a container](https://github.com/jyashcs/leetcode/blob/main/Maximum%20water.cpp)
 #### [Find the maximum profit in a given array of stock prices](https://github.com/jyashcs/leetcode/blob/main/Maximum%20profit.cpp)
