@@ -8,3 +8,4 @@
 #### [7.Merge sort](https://github.com/jyashcs/leetcode/blob/main/MergeSort.cpp)
 #### [8.Rat in a Maze](https://github.com/jyashcs/leetcode/blob/main/Rat-in-Maze.cpp)
 #### [9.Given an integer array nums, find the subarray with the largest sum, and return its sum.](https://github.com/jyashcs/leetcode/blob/main/Maximum%20sub-array.cpp)
+#### [10.The jump game](https://github.com/jyashcs/leetcode/blob/main/The%20jump%20game.cpp)
