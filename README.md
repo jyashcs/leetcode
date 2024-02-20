@@ -6,7 +6,7 @@
 #### [Day-2.Find first and last index of an element in a sorted array](https://github.com/jyashcs/leetcode/blob/main/Firstandlastindex.cpp)
 #### [Day-3.Find number of zero-filled sub-array's in a given array](https://github.com/jyashcs/leetcode/blob/main/NumberofZero-filledsubarrays.cpp)
 #### [Merge sort](https://github.com/jyashcs/leetcode/blob/main/MergeSort.cpp)
-#### [Rat in a Maze](https://github.com/jyashcs/leetcode/blob/main/Rat-in-Maze.cpp)
+#### [Rat in a Maze](https://github.com/jyashcs/leetcode/blob/main/Rat-in-a-Maze.cpp)
 #### [Day-4.Given an integer array nums, find the subarray with the largest sum, and return its sum.](https://github.com/jyashcs/leetcode/blob/main/Maximum%20sub-array.cpp)
 #### [Day-5.The jump game](https://github.com/jyashcs/leetcode/blob/main/The%20jump%20game.cpp)
 #### [Day-6.Remove Duplicates from Sorted Array](https://github.com/jyashcs/leetcode/blob/main/Remove%20Duplicates%20From%20Sorted%20Array.cpp)
