@@ -12,3 +12,4 @@
 - Day 6 [Remove Duplicates from Sorted Array](https://github.com/jyashcs/leetcode/blob/main/Remove%20Duplicates%20From%20Sorted%20Array.cpp)
 - [First and last occurence of an element using recursion](https://github.com/jyashcs/leetcode/blob/main/First%20and%20last%20position%20of%20an%20element%20%20-%20recursion%20.cpp)
 - Day 7 [The jump game 2](https://github.com/jyashcs/leetcode/blob/main/The%20jump%20game%202.cpp)
+- Day 8 [Median of 2 sorted array's](https://github.com/jyashcs/leetcode/blob/main/sorting%20in%20singleiteration.cpp)
