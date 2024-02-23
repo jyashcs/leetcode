@@ -14,3 +14,4 @@
 - Day 7 [The jump game 2](https://github.com/jyashcs/leetcode/blob/main/The%20jump%20game%202.cpp)
 - Day 8 [Median of 2 sorted array's](https://github.com/jyashcs/leetcode/blob/main/Median%20of%20two%20sorted%20arrays.cpp)
 - Day 9 [Lenght of last word](https://github.com/jyashcs/leetcode/blob/main/Length%20of%20last%20word.cpp)
+- Day 10 [Target occurence 2 II](https://github.com/jyashcs/leetcode/blob/main/Index%20of%20an%20element.cpp)
