@@ -16,3 +16,4 @@
 - Day 9 [Lenght of last word](https://github.com/jyashcs/leetcode/blob/main/Length%20of%20last%20word.cpp)
 - Day 10 [Target occurence 2 II](https://github.com/jyashcs/leetcode/blob/main/Index%20of%20an%20element.cpp)
 - Day 11 [Max Number of Operations With the Same Score I](https://github.com/jyashcs/leetcode/blob/main/Max%20Number%20of%20Operations%20With%20the%20Same%20Score%20I.cpp)
+- Day 12 [Maximum number of subsets](https://github.com/jyashcs/leetcode/blob/main/Max%20Number%20of%20Sub-Array's.cpp)
