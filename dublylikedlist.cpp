@@ -58,8 +58,6 @@ int main()
     node *head = NULL;
     for (int i = 1; i < 11; i++)
         insertattail(head, i);
-    for (int i = 1; i < 11; i++)
-        insertathead(head, i);
     display(head);
     return 0;
 }
