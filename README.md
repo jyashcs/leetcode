@@ -20,3 +20,6 @@
 - [Merge Sorted Array](https://github.com/jyashcs/leetcode/blob/main/Merge%20Sorted%20Array.cpp)
 - [Palindrome Number](https://github.com/jyashcs/leetcode/blob/main/Palindrome%20Number.cpp)
 - [stacks using array's](https://github.com/jyashcs/leetcode/blob/main/stack.c%2B%2B)
+- [Queue using array's](https://github.com/jyashcs/leetcode/blob/main/queues.cpp)
+- [stacks using likedlist](https://github.com/jyashcs/leetcode/blob/main/stacksusinglikedlist.cpp)
+- [Queue using likedlist](https://github.com/jyashcs/leetcode/blob/main/queuesusinglinkedlist.cpp)
