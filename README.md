@@ -18,7 +18,7 @@
 - [Max Number of Operations With the Same Score I](https://github.com/jyashcs/leetcode/blob/main/Max%20Number%20of%20Operations%20With%20the%20Same%20Score%20I.cpp)
 - [Maximum number of subsets](https://github.com/jyashcs/leetcode/blob/main/Max%20Number%20of%20Sub-Array's.cpp)
 - [Merge Sorted Array](https://github.com/jyashcs/leetcode/blob/main/Merge%20Sorted%20Array.cpp)
-- [Linked list.]()
+- [Linked list.](https://github.com/jyashcs/leetcode/blob/main/linkedlist.cpp)
 - [stacks using array's](https://github.com/jyashcs/leetcode/blob/main/stack.c%2B%2B)
 - [Queue using array's](https://github.com/jyashcs/leetcode/blob/main/queues.cpp)
 - [stacks using likedlist](https://github.com/jyashcs/leetcode/blob/main/stacksusinglikedlist.cpp)
