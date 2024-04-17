@@ -1,5 +1,5 @@
 # DATA STRUCTURES AND ALGORITHMS WITH C++.
-- [Find first and second maximum numbers from given array](https://github.com/jyashcs/leetcode/blob/main/First%20and%20last%20position%20of%20an%20element%20%20-%20recursion%20.cpp)
+- [Find first and second maximum numbers from given array](https://github.com/jyashcs/leetcode/blob/main/First-and-Second%20Max.cpp)
 - [Find the maximum amount of water can be stored in a container](https://github.com/jyashcs/leetcode/blob/main/Maximum%20water.cpp)
 - [Find the maximum profit in a given array of stock prices](https://github.com/jyashcs/leetcode/blob/main/Maximum%20profit.cpp)
 - [Sort an array of 0's 1's & 2's in a single iteraion](https://github.com/jyashcs/leetcode/blob/main/sorting%20in%20singleiteration.cpp)
@@ -16,6 +16,7 @@
 - [Lenght of last word](https://github.com/jyashcs/leetcode/blob/main/Length%20of%20last%20word.cpp)
 - [Target occurence 2 II](https://github.com/jyashcs/leetcode/blob/main/Index%20of%20an%20element.cpp)
 - [Max Number of Operations With the Same Score I](https://github.com/jyashcs/leetcode/blob/main/Max%20Number%20of%20Operations%20With%20the%20Same%20Score%20I.cpp)
+- [Maximum games](https://github.com/jyashcs/leetcode/blob/main/stackprblm.cpp)
 - [Maximum number of subsets](https://github.com/jyashcs/leetcode/blob/main/Max%20Number%20of%20Sub-Array's.cpp)
 - [Merge Sorted Array](https://github.com/jyashcs/leetcode/blob/main/Merge%20Sorted%20Array.cpp)
 - [Linked list](https://github.com/jyashcs/leetcode/blob/main/linkedlist.cpp)
@@ -31,6 +32,5 @@
 - [Circular linkedlist](https://github.com/jyashcs/leetcode/blob/main/circularlinkedlist.cpp)
 - [stacks using array's](https://github.com/jyashcs/leetcode/blob/main/stack.c%2B%2B)
 - [Queue using array's](https://github.com/jyashcs/leetcode/blob/main/queues.cpp)
-- [Stacks problem -> max games](https://github.com/jyashcs/leetcode/blob/main/stackprblm.cpp)
 - [stacks using likedlist](https://github.com/jyashcs/leetcode/blob/main/stacksusinglikedlist.cpp)
 - [Queue using likedlist](https://github.com/jyashcs/leetcode/blob/main/queuesusinglinkedlist.cpp)
