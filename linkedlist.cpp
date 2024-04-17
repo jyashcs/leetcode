@@ -1,63 +1,42 @@
 #include <iostream>
 using namespace std;
-struct Node
-{
-    int data;
-    struct Node *next;
+class node {
+public:
+  int data;
+  node *next;
+  node(int val) {
+    data = val;
+    next = NULL;
+  }
 };
-
-void push(struct Node **head_ref, int new_data)
-{
-    struct Node *new_node = (struct Node *)malloc(sizeof(struct Node));
-    new_node->data = new_data;
-    new_node->next = (*head_ref);
-    (*head_ref) = new_node;
-}
-
-void insertafter(struct Node *prev_node, int new_data)
-{
-    if (prev_node == NULL)
-    {
-        cout << "the given previous node connot be null" << endl;
-        return;
-    }
-    struct Node *new_node = (struct Node *)malloc(sizeof(struct Node));
-    new_node->data = new_data;
-    new_node->next = prev_node->next;
-    prev_node->next = new_node;
-}
-
-void append(struct Node **head_ref, int new_data)
-{
-
-    struct Node *new_node = (struct Node *)malloc(sizeof(struct Node));
-    struct Node *last = *head_ref;
-    new_node->next = NULL;
-    if (*head_ref == NULL)
-    {
-        *head_ref = new_node;
-        return;
-    }
-    while (last->next != NULL)
-        last = last->next;
-    last->next = new_node;
+void insertattail(node *&head, int val) {
+  node *n = new node(val);
+  if (head == NULL) {
+    head = n;
     return;
-}
-void printlist(struct Node *node)
-{
-    while (node != NULL)
-    {
-        cout << node->data;
-        node = node->next;
-    }
+  }
+  node *temp = head;
+  while (temp->next != NULL) {
+    temp = temp->next;
+  }
+  temp->next = n;
 }
 
-int main()
-{
-    struct Node *head - NULL;
-    append(&head, 6);
-    push(&head, 7);
-    push(&head, 1);
-    append(&head, 4);
-    return 0;
+void display(node *head) {
+  node *temp = head;
+  while (temp != NULL) {
+    cout << temp->data << "->";
+    temp = temp->next;
+  }
+  cout << "NULL" << endl;
+}
+int main() {
+  node *head = NULL;
+  insertattail(head, 5);
+  insertattail(head, 4);
+  insertattail(head, 3);
+  insertattail(head, 2);
+  insertattail(head, 1);
+  display(head);
+  return 0;
 }
