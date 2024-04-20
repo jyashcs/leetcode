@@ -14,6 +14,7 @@
 - [The jump game 2](https://github.com/jyashcs/leetcode/blob/main/The%20jump%20game%202.cpp)
 - [Median of 2 sorted array's](https://github.com/jyashcs/leetcode/blob/main/Median%20of%20two%20sorted%20arrays.cpp)
 - [Lenght of last word](https://github.com/jyashcs/leetcode/blob/main/Length%20of%20last%20word.cpp)
+- [Count and say](https://github.com/jyashcs/leetcode/blob/main/Count%20and%20Say.cpp)
 - [Target occurence 2 II](https://github.com/jyashcs/leetcode/blob/main/Index%20of%20an%20element.cpp)
 - [Max Number of Operations With the Same Score I](https://github.com/jyashcs/leetcode/blob/main/Max%20Number%20of%20Operations%20With%20the%20Same%20Score%20I.cpp)
 - [Maximum games](https://github.com/jyashcs/leetcode/blob/main/stackprblm.cpp)
