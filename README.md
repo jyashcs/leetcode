@@ -27,6 +27,7 @@
 - [Rotate a linkedlist](https://github.com/jyashcs/leetcode/blob/main/Rotatealikedlist.cpp)
 - [Find middle node of the linkedlist](https://github.com/jyashcs/leetcode/blob/main/findmiddleofthelikedlist.cpp)
 - [append k nodes in a linkedlist](https://github.com/jyashcs/leetcode/blob/main/appendknodes.cpp)
+- [Remove Nth Node From End of List](https://github.com/jyashcs/leetcode/blob/main/Remove%20nth%20node%20from%20the%20end%20of%20the%20list.cpp)
 - [Making detecting and deleting cycle in a linkedlist](https://github.com/jyashcs/leetcode/blob/main/Detection%26removalofcycle.cpp)
 - [Doubly linkedlist](https://github.com/jyashcs/leetcode/blob/main/dublylikedlist.cpp)
 - [Circular linkedlist](https://github.com/jyashcs/leetcode/blob/main/circularlinkedlist.cpp)
