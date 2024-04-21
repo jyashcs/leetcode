@@ -37,3 +37,4 @@
 - [Queue using array's](https://github.com/jyashcs/leetcode/blob/main/queues.cpp)
 - [stacks using likedlist](https://github.com/jyashcs/leetcode/blob/main/stacksusinglikedlist.cpp)
 - [Queue using likedlist](https://github.com/jyashcs/leetcode/blob/main/queuesusinglinkedlist.cpp)
+- [Binary tree and preorder,inorder,postorder traversals.](https://github.com/jyashcs/leetcode/blob/main/Binarytree.cpp)
