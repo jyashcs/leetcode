@@ -34,6 +34,8 @@
 - [Doubly linkedlist](https://github.com/jyashcs/leetcode/blob/main/dublylikedlist.cpp)
 - [Circular linkedlist](https://github.com/jyashcs/leetcode/blob/main/circularlinkedlist.cpp)
 - [stacks using array's](https://github.com/jyashcs/leetcode/blob/main/stack.c%2B%2B)
+- [Balanced parenthesis](https://github.com/jyashcs/leetcode/blob/main/Balanced%20parenthesis.cpp)
+- [Correct popped sequence](https://github.com/jyashcs/leetcode/blob/main/correct%20popped%20sequence.cpp)
 - [Queue using array's](https://github.com/jyashcs/leetcode/blob/main/queues.cpp)
 - [stacks using likedlist](https://github.com/jyashcs/leetcode/blob/main/stacksusinglikedlist.cpp)
 - [Queue using likedlist](https://github.com/jyashcs/leetcode/blob/main/queuesusinglinkedlist.cpp)
