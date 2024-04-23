@@ -42,3 +42,4 @@
 - [stacks using likedlist](https://github.com/jyashcs/leetcode/blob/main/stacksusinglikedlist.cpp)
 - [Queue using likedlist](https://github.com/jyashcs/leetcode/blob/main/queuesusinglinkedlist.cpp)
 - [Binary tree and preorder,inorder,postorder traversals.](https://github.com/jyashcs/leetcode/blob/main/Binarytree.cpp)
+- [Build tree from preorder and inoder](https://github.com/jyashcs/leetcode/blob/main/Build%20tree%20from%20preorder%20and%20inoder.cpp)
