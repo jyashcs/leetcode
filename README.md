@@ -43,3 +43,7 @@
 - [Queue using likedlist](https://github.com/jyashcs/leetcode/blob/main/queuesusinglinkedlist.cpp)
 - [Binary tree and preorder,inorder,postorder traversals.](https://github.com/jyashcs/leetcode/blob/main/Binarytree.cpp)
 - [Build tree from preorder and inoder](https://github.com/jyashcs/leetcode/blob/main/Build%20tree%20from%20preorder%20and%20inoder.cpp)
+- [Count number of nodes in a binary tree](https://github.com/jyashcs/leetcode/blob/main/Count%20n.of%20nodes%20in%20a%20binary%20tree.cpp)
+- [Sum at kth level in a binary tree](https://github.com/jyashcs/leetcode/blob/main/Sum%20at%20kth%20level.cpp)
+- [Sum of all nodes in a binary tree](https://github.com/jyashcs/leetcode/blob/main/Sum%20of%20all%20nodes%20in%20a%20binary%20tree.cpp)
+- [Sum replacement in a binary tree](https://github.com/jyashcs/leetcode/blob/main/Sum%20replacement%20in%20a%20binary%20tree.cpp)
