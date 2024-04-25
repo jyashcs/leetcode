@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int top = -1;
-#define size 5;
+#define size 5
 int stack[size];
 void push()
 {
@@ -44,7 +44,9 @@ void display()
         cout << "STACK IS EMPTY (UNDERFLOW) " << endl;
     else
         for (int i = top; i >= 0; i--)
-            cout << stack[top];
+            cout << stack[i];
+            
+          cout<<endl;
 }
 
 int main()
@@ -67,10 +69,7 @@ int main()
             peek();
             break;
         case 4:
-            push();
-            break;
-        case 5:
-            cout << "THANKYOU" << endl;
+            display();
             break;
         default:
             cout << "SORRY, YOU HAVE ENTERED A WRONG CHOICE" << endl;
