@@ -48,6 +48,6 @@
 - [Sum of all nodes in a binary tree](https://github.com/jyashcs/leetcode/blob/main/Sum%20of%20all%20nodes%20in%20a%20binary%20tree.cpp)
 - [Sum replacement in a binary tree](https://github.com/jyashcs/leetcode/blob/main/Sum%20replacement%20in%20a%20binary%20tree.cpp)
 - [Level order traversal in a binary tree](https://github.com/jyashcs/leetcode/blob/main/Level%20order%20traversal.cpp)
-- [Calculate hight of a binary tree](https://github.com/jyashcs/leetcode/blob/main/Hight%20of%20a%20binary%20tree.cpp)it 
+- [Calculate hight of a binary tree](https://github.com/jyashcs/leetcode/blob/main/Hight%20of%20a%20binary%20tree.cpp)
 - [Calculate diameter of a binary tree](https://github.com/jyashcs/leetcode/blob/main/Calculate%20diameter%20of%20a%20binary%20tree.cpp)
 - [Build a binary search tree](https://github.com/jyashcs/leetcode/blob/main/Binary%20search%20tree.cpp)
