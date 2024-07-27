@@ -2,7 +2,7 @@
 class Solution {
 public:
   int majorityElement(vector<int> &nums) {
-    std::unordered_map<int, int> countMap;
+    unordered_map<int, int> countMap;
     int majorityElement = 0;
     int n = nums.size();
 
