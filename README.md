@@ -9,3 +9,5 @@
 - [Click here to solve](https://leetcode.com/problems/jump-game/description/)
 - Day 5 - [45 Jump Game II (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%205%2045%20Jump%20Game%202.cpp)
 - [Click here to solve](https://leetcode.com/problems/jump-game-ii/description/)
+- Day 6 - [2784 Check if Array is Good (Easy)](https://github.com/jyashcs/leetcode/blob/master/Day%206%202784%20Check%20if%20Array%20is%20Good.cpp)
+- [Click here to solve](https://leetcode.com/problems/check-if-array-is-good/description/)
