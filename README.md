@@ -5,5 +5,7 @@
 - [Click here to solve](https://leetcode.com/problems/sort-an-array/description/)
 - Day 3 - [2540 Minimum common value (Easy)](https://github.com/jyashcs/leetcode/blob/master/Day%203%202540.%20Minimum%20Common%20Value.cpp)
 - [Click here to solve](https://leetcode.com/problems/minimum-common-value/description/)
-- Day 4 - [55 Jump Game (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%204%2055%20Jump%20Game.cpp)
+- Day 4 - [55 Jump Game I (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%204%2055%20Jump%20Game.cpp)
 - [Click here to solve](https://leetcode.com/problems/jump-game/description/)
+- Day 5 - [45 Jump Game II (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%205%2045%20Jump%20Game%202.cpp)
+- [Click here to solve](https://leetcode.com/problems/jump-game-ii/description/)
