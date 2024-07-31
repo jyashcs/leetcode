@@ -11,3 +11,5 @@
 - [Click here to solve](https://leetcode.com/problems/jump-game-ii/description/)
 - Day 6 - [2784 Check if Array is Good (Easy)](https://github.com/jyashcs/leetcode/blob/master/Day%206%202784%20Check%20if%20Array%20is%20Good.cpp)
 - [Click here to solve](https://leetcode.com/problems/check-if-array-is-good/description/)
+- Day 7 - [2 Add Two Numbers (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%207%202.%20Add%20Two%20Numbers.cpp)
+- [Click here to solve](https://leetcode.com/problems/add-two-numbers/)
