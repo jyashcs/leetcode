@@ -13,3 +13,5 @@
 - [Click here to solve](https://leetcode.com/problems/check-if-array-is-good/description/)
 - Day 7 - [2 Add Two Numbers (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%207%202.%20Add%20Two%20Numbers.cpp)
 - [Click here to solve](https://leetcode.com/problems/add-two-numbers/)
+- Day 8 [49 Group Anagrams (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%208%20Group%20Anagrams.cpp)
+- [Click here to solve](https://leetcode.com/problems/group-anagrams/description/)
