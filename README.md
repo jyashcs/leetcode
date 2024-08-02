@@ -17,3 +17,5 @@
 - [Click here to solve](https://leetcode.com/problems/group-anagrams/description/)
 - Day 9 - [442 Find All Duplicates in an array ( in O(n) ) (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%209%20Find%20All%20Duplicates%20in%20an%20array.cpp)
 - [Click here to solve](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- Day 10 - [347 Top k Frequent elements (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%2010%20347%20Top%20K%20Frequent%20Elements.cpp)
+- [Click here to solve](https://leetcode.com/problems/top-k-frequent-elements/)
