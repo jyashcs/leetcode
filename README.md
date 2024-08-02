@@ -15,3 +15,5 @@
 - [Click here to solve](https://leetcode.com/problems/add-two-numbers/)
 - Day 8 [49 Group Anagrams (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%208%20Group%20Anagrams.cpp)
 - [Click here to solve](https://leetcode.com/problems/group-anagrams/description/)
+- Day 9 - [442 Find All Duplicates in an array ( in O(n) ) (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%209%20Find%20All%20Duplicates%20in%20an%20array.cpp)
+- [Click here to solve](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
