@@ -19,3 +19,5 @@
 - [Click here to solve](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - Day 10 - [347 Top k Frequent elements (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%2010%20347%20Top%20K%20Frequent%20Elements.cpp)
 - [Click here to solve](https://leetcode.com/problems/top-k-frequent-elements/)
+- Day 11 - [19 Remove Nth node from the end of the linkedlist (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%2011%2019%20Remove%20Nth%20Node%20from%20the%20end%20of%20the%20linkedlist.cpp)
+- [Click here to solve](https://leetcode.com/problemset/)
