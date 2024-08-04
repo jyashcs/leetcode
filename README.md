@@ -21,3 +21,5 @@
 - [Click here to solve](https://leetcode.com/problems/top-k-frequent-elements/)
 - Day 11 - [19 Remove Nth node from the end of the linkedlist (Medium)](https://github.com/jyashcs/leetcode/blob/master/Day%2011%2019%20Remove%20Nth%20Node%20from%20the%20end%20of%20the%20linkedlist.cpp)
 - [Click here to solve](https://leetcode.com/problemset/)
+- Day 12 - [42 Trapping Rain Water (Hard)](https://github.com/jyashcs/leetcode/blob/master/Day%2012%20Trappint%20Rain%20Water.cpp)
+- [Click here to solve](https://leetcode.com/problems/trapping-rain-water/description/)
