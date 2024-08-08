@@ -23,3 +23,5 @@
 - [Click here to solve](https://leetcode.com/problemset/)
 - Day 12 - [42 Trapping Rain Water (Hard)](https://github.com/jyashcs/leetcode/blob/master/Day%2012%20Trappint%20Rain%20Water.cpp)
 - [Click here to solve](https://leetcode.com/problems/trapping-rain-water/description/)
+- Day 13 - [1684 Count the Number of Consistent Strings (Easy)](https://github.com/jyashcs/leetcode/blob/master/Day%2013%201684.%20Count%20the%20Number%20of%20Consistent%20Strings.cpp)
+- [Click here to solve](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)
